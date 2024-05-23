@@ -13,7 +13,7 @@ func Test_distance(t *testing.T) {
 		args args
 		want float64
 	}{
-		// TODO: Add test cases.
+		// TODO: Add test cases.f
 		{
 			name: "Success test",
 			args: args{
